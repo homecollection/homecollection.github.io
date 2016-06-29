@@ -1,2 +1,2 @@
-# homecollection.github.io
+# http://homecollection.github.io
 Site da Home Collection
